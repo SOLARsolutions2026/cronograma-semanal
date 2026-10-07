@@ -1,14 +1,14 @@
 {
   "name": "Cronograma Semanal P. Electric",
   "short_name": "Cronograma",
-  "description": "Cronograma semanal editable de P. Electric S.A.S. y Solar Solutions.",
+  "description": "Cronograma semanal de P. Electric S.A.S. y Solar Solutions.",
   "lang": "es-CO",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#eef1f7",
-  "theme_color": "#13265f",
+  "background_color": "#1b244f",
+  "theme_color": "#1b244f",
   "icons": [
     {
       "src": "icon-192.png",
